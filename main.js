@@ -15,3 +15,12 @@ let areaTriangulo=function(base,altura){
 }
 console.log(areaTriangulo(9,6));
    
+let MedirMedia1=parseInt(prompt('nota primeiro trimestre'));
+
+let MedirMedia2=parseInt(prompt('nota egundo trimestre'));
+
+let MedirMedia3=parseInt(prompt('nota terceiro trimestre'));
+function media(num1,num2,num3){
+    return(num1+num2+num3)/3;
+}
+document.write(media(MedirMedia1,MedirMedia2,MedirMedia3));
