@@ -13,4 +13,4 @@ console.log(areaQuadrado(6));
 let areaTriangulo=function(base,altura){
     return (base*altura)/2;
 }
-console.log(areaTriangulo(9,6))
+console.log(areaTriangulo(9,6));
