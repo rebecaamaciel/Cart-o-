@@ -28,7 +28,7 @@
     let e = 0;
     while(){
  i < 10
-    console.log (i);
+    console.log (i); console.log (estado[i])
  i = i + 1;
 
 }
