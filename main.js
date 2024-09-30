@@ -25,12 +25,9 @@
 // }
 // document.write(media(MedirMedia1,MedirMedia2,MedirMedia3));
     let estados =['Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Espírito Santo', 'Goiás', 'Maranhão', 'Mato Grosso', 'Mato Grosso do Sul', 'Minas Gerais', 'Pará', 'Paraíba', 'Paraná', 'Pernambuco', 'Piauí', 'Rio de Janeiro', 'Rio Grande do Norte', 'Rio Grande do Sul', 'Rondônia', 'Roraima', 'Santa Catarina', 'São Paulo', 'Sergipe', 'Tocantins', 'Distrito Federal']
-    let e = 0;
-    while(1<estados.length){
- i < 10
+    let i=0;
+    while(i<estados.length){
     console.log (i); 
-    console.log (estados[i])
- i = i + 1;
-fghj
-}
+    console.log (estados[i]);
+ i++;}
     
